@@ -18,8 +18,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urljoin
 
-import requests
 from bs4 import BeautifulSoup
+# curl_cffi imita l'impronta TLS di Chrome: con "requests" i portali rispondono 403.
+from curl_cffi import requests
 
 # ---------------------------------------------------------------------------
 # CONFIGURAZIONE — modifica qui se vuoi aggiungere fonti o parole chiave
@@ -121,12 +122,8 @@ TIPO_LOCALE = [
 ROOT = Path(__file__).resolve().parent
 SEEN_FILE = ROOT / "seen.json"
 
+# User-Agent e gli altri header da browser li mette curl_cffi (impersonate="chrome").
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-        "(KHTML, like Gecko) Chrome/128.0 Safari/537.36"
-    ),
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "it-IT,it;q=0.9,en;q=0.6",
 }
 
@@ -163,7 +160,7 @@ def card_text(a) -> str:
 
 
 def fetch_source(src: dict) -> list[dict]:
-    r = requests.get(src["url"], headers=HEADERS, timeout=30)
+    r = requests.get(src["url"], headers=HEADERS, impersonate="chrome", timeout=30)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     pattern = re.compile(src["link"])
