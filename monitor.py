@@ -251,7 +251,9 @@ def send_telegram(text: str) -> None:
         timeout=30,
     )
     if r.status_code != 200:
-        print("Errore Telegram:", r.status_code, r.text, file=sys.stderr)
+        # Fermiamo il giro senza salvare seen.json: così gli annunci non vanno persi
+        # e il workflow risulta fallito (rosso) nella scheda Actions.
+        sys.exit(f"Errore Telegram: {r.status_code} {r.text}")
     time.sleep(1.1)  # rispetta i limiti di Telegram
 
 
