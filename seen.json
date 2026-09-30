@@ -1,4 +1,264 @@
 {
  "_avviso_errori": "2026-09-30",
- "_ultimo_controllo": "2026-09-30"
+ "_ultimo_controllo": "2026-09-30",
+ "https://www.casa.it/immobili/48461336": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Campo San Barnaba"
+ },
+ "https://www.casa.it/immobili/48986839": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Ramo Barbaro"
+ },
+ "https://www.casa.it/immobili/49890962": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar"
+ },
+ "https://www.casa.it/immobili/50458082": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "VENEZIA CENTRO STORICO RISTORANTE IN VENDITA"
+ },
+ "https://www.casa.it/immobili/50502158": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Piazzale Roma"
+ },
+ "https://www.casa.it/immobili/51146399": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante"
+ },
+ "https://www.casa.it/immobili/51234564": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Campo Santa Margherita"
+ },
+ "https://www.casa.it/immobili/51623390": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale a Venezia Opportunità Esclusiva"
+ },
+ "https://www.casa.it/immobili/52072532": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Campo San Barnaba"
+ },
+ "https://www.casa.it/immobili/52273359": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Santa Croce"
+ },
+ "https://www.casa.it/immobili/52359986": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in San Marco"
+ },
+ "https://www.casa.it/immobili/52534409": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar"
+ },
+ "https://www.casa.it/immobili/52544718": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Strada Nova 2064"
+ },
+ "https://www.casa.it/immobili/52823146": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Strada Nova"
+ },
+ "https://www.casa.it/immobili/53014202": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante"
+ },
+ "https://www.casa.it/immobili/53046795": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Ponte de Rialto 5327"
+ },
+ "https://www.casa.it/immobili/53201863": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Fondamenta Cannaregio"
+ },
+ "https://www.casa.it/immobili/53458609": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar"
+ },
+ "https://www.casa.it/immobili/53522096": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar"
+ },
+ "https://www.casa.it/immobili/53759819": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Sestiere Dorsoduro"
+ },
+ "https://www.casa.it/immobili/54029102": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "OTTIMO AFFARE ATTIVITA' AVVIATA DA PIU' DI 40 ANNI"
+ },
+ "https://www.casa.it/immobili/54170738": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Locale con cucina in Piazzale Roma"
+ },
+ "https://www.casa.it/immobili/54275599": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Campiello Santa Maria Formosa"
+ },
+ "https://www.casa.it/immobili/54276855": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Paninoteca in Nova"
+ },
+ "https://www.casa.it/immobili/54844023": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Fondamenta Cannaregio"
+ },
+ "https://www.idealista.it/immobile/27975346": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar a Cannaregio, Venezia"
+ },
+ "https://www.idealista.it/immobile/29286496": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Campo San Barnaba, Dorsoduro, Venezia"
+ },
+ "https://www.idealista.it/immobile/29880692": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Ramo Barbaro, Cannaregio, Venezia"
+ },
+ "https://www.idealista.it/immobile/30838362": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante a San Polo, Venezia"
+ },
+ "https://www.idealista.it/immobile/30842391": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante, bar a Santa Croce, Venezia"
+ },
+ "https://www.idealista.it/immobile/31363606": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Stabilimento, bar a San Marco, Venezia"
+ },
+ "https://www.idealista.it/immobile/31615764": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale in Calle del Paradiso s.n.c, Castello, Venezia"
+ },
+ "https://www.idealista.it/immobile/31822330": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale in San Marco, 5165, San Marco, Venezia"
+ },
+ "https://www.idealista.it/immobile/32261025": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante a San Polo, Venezia"
+ },
+ "https://www.idealista.it/immobile/34285583": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale a Dorsoduro, Venezia"
+ },
+ "https://www.idealista.it/immobile/34420056": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale in Piazzale Roma, Santa Croce, Venezia"
+ },
+ "https://www.idealista.it/immobile/34522896": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Ponte de Rialto, 5327, San Marco, Venezia"
+ },
+ "https://www.idealista.it/immobile/34716061": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Fondamenta Cannaregio, Cannaregio, Venezia"
+ },
+ "https://www.idealista.it/immobile/36107301": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante in Campiello Santa Maria Formosa s.n.c, Castello, Venezia"
+ },
+ "https://www.idealista.it/immobile/36140504": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale in Calle degli Albanesi, Castello, Venezia"
+ },
+ "https://www.idealista.it/immobile/36349443": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar in Fondamenta Cannaregio, Cannaregio, Venezia"
+ },
+ "https://www.idealista.it/immobile/36768542": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività commerciale in Tronchetto s.n.c, Santa Croce, Venezia"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/attivita-di-pasticceria-panificio-e-caffetteria-venezia-662401459.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Attività di Pasticceria, Panificio e Caffetteria 180.000 € Venezia ( VE ) 130 mq Agenzia v"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bar-a-venezia-venezia-639700920.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "4 Bar a Venezia Venezia ( VE ) 110 mq Agenzia verificata È un professionista con contratto"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bar-a-venezia-venezia-639700939.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "3 Bar a Venezia 85.000 € Venezia ( VE ) 100 mq Agenzia verificata È un professionista con "
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bar-a-venezia-venezia-645885740.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "2 Bar a Venezia Venezia ( VE ) 160 mq Agenzia verificata È un professionista con contratto"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bar-caffetteria-venezia-dorsoduro-venezia-643130479.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bar caffetteria venezia dorsoduro Venezia ( VE ) 36 mq Agenzia verificata È un professioni"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bar-nel-comune-di-venezia-venezia-654422485.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "6 Bar nel comune di venezia Venezia ( VE ) 70 mq Agenzia verificata È un professionista co"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/bistrot-osteria-zona-castellana-venezia-662401509.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Bistrot - Osteria zona Castellana 128.000 € Venezia ( VE ) 100 mq 1 Bagno Agenzia verifica"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/cessione-attivita-bar-in-zona-centrale-a-marg-venezia-662401523.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Cessione Attività - Bar in Zona Centrale a Marg 128.000 € Venezia ( VE ) 45 mq 1 Bagno Age"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/conosciuta-e-rinomata-osteria-bar-alti-fatturati-venezia-661358177.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "6 Conosciuta e Rinomata Osteria Bar Alti Fatturati 180.000 € Venezia ( VE ) 220 mq 6 Local"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/fondo-per-ristorante-di-800mq-venezia-662401564.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "30 FONDO PER RISTORANTE DI 800MQ 2.200.000 € Venezia ( VE ) 800 mq +10 Locali 1° Piano Age"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/pizzeria-ristorante-42-anni-di-successi-venezia-661360171.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "6 Pizzeria ristorante, 42 anni di successi Venezia ( VE ) 280 mq 8 Locali 3 Bagni"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/ristorante-con-plateatico-in-canareggio-venezia-661872623.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante con plateatico in Canareggio 1.600.000 € Venezia ( VE ) 200 mq 5 Locali Piano T"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/ristorante-sushi-venezia-633565756.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante sushi 90.000 € Venezia ( VE ) 190 mq Piano T 3 Bagni"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/ristorante-trattoria-a-venezia-venezia-662401578.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante/Trattoria a Venezia 1.000.000 € Venezia ( VE ) 200 mq Agenzia verificata È un p"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/ristorante-venezia-a-103-2025vcg-cannaregio-venezia-654108232.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante Venezia [A/103/2025VCG] (Cannaregio) 420.000 € Venezia ( VE ) 40 mq 3 Locali 1 "
+ },
+ "https://www.subito.it/uffici-locali-commerciali/ristorante-venezia-vicino-biennale-venezia-647170830.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Ristorante venezia vicino biennale Venezia ( VE ) 90 mq Agenzia verificata È un profession"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/snack-bar-con-cucina-venezia-662509917.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "2 Snack bar con cucina Venezia ( VE ) 80 mq 3 Locali Piano T 2 Bagni Agenzia verificata È "
+ },
+ "https://www.subito.it/uffici-locali-commerciali/snack-bar-con-piccola-cucina-venezia-662489930.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "2 Snack bar con piccola cucina 120.000 € Venezia ( VE ) 70 mq 2 Locali Piano T 2 Bagni Age"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/snack-bar-ristopub-centralissimo-grandi-plateatici-venezia-661361270.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "6 Snack Bar Ristopub centralissimo grandi plateatici Venezia ( VE ) 180 mq 6 Locali 3 Bagn"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/snack-bar-venezia-venezia-522818251.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Snack Bar Venezia 250.000 € Venezia ( VE ) 35 mq Agenzia verificata È un professionista co"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/storico-ristorante-di-pesce-venezia-662401457.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "4 Storico ristorante di pesce 180.000 € Venezia ( VE ) 1 mq Interr. Agenzia verificata È u"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/trattoria-ristorante-a-venezia-venezia-646041843.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "Trattoria ristorante a venezia Venezia ( VE ) 220 mq Agenzia verificata È un professionist"
+ },
+ "https://www.subito.it/uffici-locali-commerciali/vendita-a-riscatto-osteria-con-100-anni-di-storia-venezia-661358738.htm": {
+  "first_seen": "2026-09-30T14:09:23+00:00",
+  "title": "6 Vendita a riscatto osteria con 100 anni di storia Venezia ( VE ) 280 mq 6 Locali 1 Bagno"
+ }
 }
